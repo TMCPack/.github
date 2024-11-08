@@ -1,1 +1,1 @@
-<h3>The Minecraft Pack</h3>
+<h1 align="center">The Minecraft Pack</h1>
